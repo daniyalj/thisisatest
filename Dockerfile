@@ -1,3 +1,3 @@
-FROM 172.30.80.32:5000/ugo-tools/nexus:tag
+FROM 172.30.80.32:5000/ugo-tools/nexus:latest
 
 RUN echo helloworld
